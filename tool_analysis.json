@@ -1,0 +1,11 @@
+{
+    "Copilot": {
+      "preferred_language_hint": true,
+      "needs_explicit_io": true,
+      "keywords": ["function", "code", "input/output"]
+    },
+    "Replit": {
+      "project_scaffold_required": true,
+      "show_file_structure": true
+    }
+  }
